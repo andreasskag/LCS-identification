@@ -1,1 +1,1 @@
-# LCS-identification
+# LCS
